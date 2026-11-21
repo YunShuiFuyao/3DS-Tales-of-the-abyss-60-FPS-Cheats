@@ -48,7 +48,7 @@ This project is for learning and technical research only.
 ## 更新历史 (Changelog)
 
 - **2026/11/20 - Version 1.1 Update**
-  - 修复非战斗场景 1.4 倍速与推满摇杆退化为走路动画的问题，角色跑步与剧情/场景播放速度恢复精准 1.0x 原速。
+  - 修复非战斗场景大于 1.4 倍速推满摇杆退化为走路动画的问题，角色跑步与剧情/场景播放速度恢复精准 1.0x 原速。
   - 补充大地图移动与动画周期 0.5x 同步补偿。
   - 新增过场影片（`Movie`）自动回落 30FPS 保护，保留已完善的战斗 60FPS 表现。
 - **Initial Release - Version 1.0**
